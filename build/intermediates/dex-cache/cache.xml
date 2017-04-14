@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_f811ea44049a059ccc061dd914332785e072c3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_935da8ea6019c53605b983549c012709c55bfabf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\b16de44ba436bdbbaad5193f0d9b9d2df1bb2e95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f7e1ce5942093c77105c86ef11b782f75aff0c3">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b36ef197735a0c946610dd99e50b58c07086fa52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\aa18619d741698e921aa900a488c61dc77651079\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8caa1d862d125826579c1e3210d2a7608789debe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\48b9c7376c139f43110cb3af3579b1cfecb2046b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_659ee52be19b7f5cefeb1af1e62e3b7c28c93356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\8e41280cf74969d666192fa04f66f0b0f6947b71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07d55c8f21960b1b3b867913305dd3b984201e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0_a5e419f456e4f38bbe993ccb42e4d5bc316ea0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\c8fb77734de52fe7bc0e75e83da1a585e7fd0f90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80aa6ea0eba514a86d2962bc730cd6451375cb4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-compiler\0.6.3\e0e34b884d0ab725272b1772e01f1ad2e0759410\schematic-compiler-0.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e0e34b884d0ab725272b1772e01f1ad2e0759410">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\schematic-compiler-0.6.3_26d4c27dd3cc569a19e23560c2d733dfd3279a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\1518f2821b1d353ef8df77afeab7395f361b6213\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ea5a6839be8f0f0b8347b3f01e4bf58980143cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1081740a7278d4263810025c2fb46a4458a5484">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_14a2998ff7ebe7f4418fadd1b09b6a3359754c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_d46ab5c305391563d22cc87bdd5d0b9080a6de0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\094c5679a4144ddd14e7e161cfae18ba5af77754\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56c6a22c42588628903e9dda5d8f3aa1c1b4372f">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9303ef198115f9018ba1b2cf4e3c18a8d04e477e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0_e59709c4fd67b1294949f2c9a5835e7c4a47f97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Softwares Tools\Android Studio 2.2\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_35036d0e99c7b01dcb12fddaff79c3c5a4c78653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\275f6adbfbcf13836e8cac0aa8062e96e0a6c07e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78482830936a5ac99a25b420c38e94ebd80162a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.2.0\ad3ba65c1788f4d814a4da056323e2b84412fb3c\javapoet-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad3ba65c1788f4d814a4da056323e2b84412fb3c">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\javapoet-1.2.0_0348b0f6ab9a94a90468fee98dd743fda35895e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\schematic-annotations-0.6.3_16e8b1b35eda738d6ccb443e99c19679f02e6fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\.android\build-cache\a27439351c96a4eb08e7df77b3eed8677f9fb56c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8753fb8a8f2dd71b66c87e2d88cf3b3568dd27c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\IDEs\Android Studio\Stock hawk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b2b489f4d4be0feb89540d2a44c00e754ae87395\classes.dex" />
+    </item>
+
+</items>
